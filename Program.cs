@@ -12,7 +12,7 @@ namespace ricards
             string opcao;
             do
             {
-                Console.WriteLine("=-=-=[ Menu ]=-=-=");
+                Console.WriteLine("=====[ Menu ]=====");
                 Console.WriteLine("1 - Adicionar\n");
                 Console.WriteLine("2 - Remover\n");
                 Console.WriteLine("3 - Atualizar\n");
